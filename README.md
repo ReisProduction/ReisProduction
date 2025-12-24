@@ -46,6 +46,7 @@ Whether it's a productivity tool or an immersive game world, we aim to deliver *
 | 🎮 Games         | [reisgames.com](https://reisgames.com) |
 | 🧪 Studio Tools  | [studio.reisproduction.com](https://studio.reisproduction.com) |
 | 💬 Community     | [forum.reisproduction.com](https://forum.reisproduction.com) |
+| 💻 Desktop       | [desktop.reisproduction.com](https://desktop.reisproduction.com) |
 
 ---
 
@@ -70,5 +71,3 @@ We’re always looking for collaborators, testers, and passionate developers.
 Feel free to explore our repos, contribute, or just say hi 👋
 
 ---
-
-**Made with ❤️ by Reis Production**
