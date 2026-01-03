@@ -30,11 +30,11 @@ Whether it's a productivity tool or an immersive game world, we aim to deliver *
 
 ## 🧰 Tech Stack
 
-- 💻 C#, .NET, ASP.NET Core
-- 🎮 Unity, MonoGame
+- 💻 C#, WinUI 3, .NET 10
+- 🎮 Unreal Engine 5+
 - 🧪 GitHub Actions, CI/CD
-- 🗄️ SQL, MongoDB
-- ☁️ Azure, Docker
+- 🗄️ SQL, MSSQL 2022
+- ☁️ Blazor C#, ASP.NET
 
 ---
 
@@ -44,6 +44,7 @@ Whether it's a productivity tool or an immersive game world, we aim to deliver *
 |-----------------|------|
 | 🌍 Main Site     | [reisproduction.com](https://reisproduction.com) |
 | 🎮 Games         | [reisgames.com](https://reisgames.com) |
+| ⚙️ Cheats        | [reischeats.com](https://reischeats.com) |
 | 🧪 Studio Tools  | [studio.reisproduction.com](https://studio.reisproduction.com) |
 | 💬 Community     | [forum.reisproduction.com](https://forum.reisproduction.com) |
 | 💻 Desktop       | [desktop.reisproduction.com](https://desktop.reisproduction.com) |
